@@ -12,8 +12,9 @@ export default function About() {
             İtalyanca 'domates' anlamına gelen kelimeden gelen pomodoro adı veriliyor.
             </p>  
             <h1 className='text-cl sm:text-2xl font-medium break-words'> <span className='border-b-4 border-red-400'>Günlük Odak </span> Nedir?</h1>
-            <p className='mt-5 tracking-wide opacity-60 text-lg'>
-            Günlük odak, bir pomodoro projesidir. Açık kaynaktır ve işte kod. https://github.com/Chensokheng/pomodoro
+            <p className='mt-5 tracking-wide opacity-60 text-lg break-words'>
+            Günlük odak, bir pomodoro projesidir. Açık kaynaktır ve işte kod.
+             <a className="underline"  href='https://github.com/SamiRenkyorganci/NextJsLearning/tree/main/pomodoro-starter' target='_blank'>Github Repo</a>
             </p>
         </div>
     </div>
