@@ -17,9 +17,10 @@ cd pomodoro-starter
 npm install
 
 ## Running the Application
+```bash
 
 Run the development server:
 
 ```bash
 npm run dev
-
+```bash
