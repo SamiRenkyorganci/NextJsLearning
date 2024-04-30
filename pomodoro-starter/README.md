@@ -16,3 +16,10 @@ git clone https://github.com/SamiRenkyorganci/NextJsLearning/tree/main/pomodoro-
 cd pomodoro-starter
 npm install
 
+## Running the Application
+
+Run the development server:
+
+```bash
+npm run dev
+
