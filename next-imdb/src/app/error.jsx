@@ -2,9 +2,9 @@
 import React from 'react'
 import { useEffect } from 'react'
 export default function error({error,reset}) {
-  useEffect(()=>{
+   useEffect(() => {
     console.log(error);
-  },[error])
+  }, [error]);
     return (
        
       <main className="grid min-h-full place-items-center  px-6 py-24 sm:py-32 lg:px-8">
